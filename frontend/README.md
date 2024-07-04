@@ -1,3 +1,8 @@
+To Run:
+1. Start in backend with nodemon server.js
+2. Go to frontend and run npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
